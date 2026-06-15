@@ -1,16 +1,13 @@
 # slopsec
 
-A Claude Code skill that security-audits **vibe-coded SaaS apps** — the kind
-shipped fast with AI help, where "it works" and "it's safe to put on the
-internet" are very different things.
+A Claude Code skill that security-audits your **vibe-coded SaaS apps**, so your slop isn't just slop, its secure slop!
 
-Bots scan the whole internet constantly. The premise here is a real one: a
-freshly launched app got probed by an attacker within 3 hours of going live.
-"Nobody knows my URL yet" has never been a security model.
+Bots scan the whole internet constantly. The premise here is a real one; 
+freshly launched apps can get probed by an attacker within 3 hours of going live, with this it ensures that your AI Agent isn't skipping the security checks that count.
 
-slopsec turns **50 recurring ways vibe-coded apps get owned** into a repeatable
-audit: scope the app, walk the checklist, prove the findings, prioritize by
-severity, fix, and re-verify.
+slopsec turns **50 recurring ways vibe-coded apps get pwned** into a repeatable
+audit; scope the app, walk the checklist, prove the findings, prioritize by
+severity, fix, and re-verify!
 
 ## What's inside
 
