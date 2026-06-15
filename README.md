@@ -1,5 +1,5 @@
 # slopsec
-
+**Did you just get a $200 bill from AWS? Stop 'hiding' your API keys in plaintext. It sounds like you need:**
 A Claude Code skill that security-audits your **vibe-coded SaaS apps**, so your slop isn't just slop, its secure slop!
 
 Bots scan the whole internet constantly. The premise here is a real one; 
@@ -8,6 +8,8 @@ freshly launched apps can get probed by an attacker within 3 hours of going live
 slopsec turns **50 recurring ways vibe-coded apps get pwned** into a repeatable
 audit; scope the app, walk the checklist, prove the findings, prioritize by
 severity, fix, and re-verify!
+
+Just run /slopsec for slopsec to save the day! (and your wallet)
 
 ## What's inside
 
