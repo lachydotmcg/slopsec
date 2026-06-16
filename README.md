@@ -1,5 +1,5 @@
 # slopsec
-**Did you just get a $200 bill from AWS? Stop 'hiding' your API keys in plaintext. It sounds like you need:**
+**Did you just get a unforeseen $200 bill from AWS? Stop 'hiding' your API keys in plaintext. It sounds like you need:**
 A Claude Code skill that security-audits your **vibe-coded SaaS apps**, so your slop isn't just slop, its secure slop!
 
 Bots scan the whole internet constantly. The premise here is a real one; 
