@@ -1,0 +1,9 @@
+{
+  "name": "slopsec",
+  "description": "Security audit and hardening for vibe-coded SaaS apps. Walks the 50 most common ways AI-generated apps get owned and produces a prioritized fix list.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Lachy"
+  },
+  "license": "MIT"
+}
