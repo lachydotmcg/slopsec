@@ -23,13 +23,24 @@ Just run /slopsec for slopsec to save the day! (and your wallet)
 
 ## Install
 
-Drop the `slopsec/` folder into your skills directory:
+**As a plugin (easiest, and you get updates):**
+
+```
+/plugin marketplace add lachydotmcg/slopsec
+/plugin install slopsec@slopsec
+/reload-plugins
+```
+
+Run it with `/slopsec:slopsec` (plugin skills get namespaced, sorry). Later,
+pull updates with `/plugin marketplace update`.
+
+**Or drop the folder in manually:**
 
 - **Project:** `.claude/skills/slopsec/`
 - **Personal:** `~/.claude/skills/slopsec/`
 
-Then ask Claude something like "run a security review before I launch" or
-"is my app secure?" and the skill triggers.
+Either way, you can also just ask Claude "run a security review before I
+launch" or "is my app secure?" and the skill triggers on its own.
 
 ## The 9 categories
 
